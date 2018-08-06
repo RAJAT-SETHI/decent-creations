@@ -170,19 +170,19 @@
 /*       Slides backgrounds     */
 /********************************/
 #first-slider .slide1 {
-  background-image: url(/assets/images/image.jpg);
+  background-image: url(../images/image.jpg);
       background-size: cover;
     background-repeat: no-repeat;
 	background-attachment:fixed;
 }
 #first-slider .slide2 {
-  background-image: url(/assets/images/image2.jpg);
+  background-image: url(../images/image2.jpg);
       background-size: cover;
     background-repeat: no-repeat;
 	background-attachment:fixed;
 }
 #first-slider .slide3 {
-  background-image: url(/assets/images/image.jpg);
+  background-image: url(../images/image.jpg);
       background-size: cover;
     background-repeat: no-repeat;
 }
