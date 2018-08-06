@@ -198,7 +198,7 @@ nav{
 		
 		bottom:0;
         text-align: center;
-        background-image: url(/src/assets/images/1064.jpg);
+        background-image: url(../images/1064.jpg);
         background-repeat: no-repeat;
         background-size: cover;
 		background-attachment:fixed;
